@@ -10,21 +10,51 @@
     "tools": ["Notion", "Fondora", "Postman"],
     "membersContacts": [
         {
-            "name": "Nickname1",
-            "nameFull": "FirstName1, SecondName1",
-            "track": "UK",
-            "githubName": "GithubName1",
-            "githubUrl": "https://api.github.com/users/TechLabs-Berlin/",
+            "name": "Bastian",
+            "nameFull": "Bastian, van der Put",
+            "track": "DS",
+            "githubName": "CodingBastian",
+            "githubUrl": "https://github.com/CodingBastian",
             "linkedinUrl": "https://linkedin",
             "emailAdress": "Nickname1@provider.com",
             "display": true
         },
         {
-            "name": "[Nickname]",
-            "nameFull": "[FirstName], [SecondName]",
-            "track": "[track]",
-            "githubName": "[GithubName]",
-            "githubUrl": "[github_url]",
+            "name": "[Florian]",
+            "nameFull": "[Florian], [Deters]",
+            "track": "[DS]",
+            "githubName": "[floriandeters]",
+            "githubUrl": "[floriandeters]",
+            "linkedinUrl": "[linkedin_url]",
+            "emailAdress": "[email_adress]",
+            "display": true
+        },
+        {
+            "name": "[Lukas]",
+            "nameFull": "[Lukas], [Hoppe]",
+            "track": "[DS]",
+            "githubName": "[lukasjoho]",
+            "githubUrl": "[https://github.com/lukasjoho]",
+            "linkedinUrl": "[linkedin_url]",
+            "emailAdress": "[email_adress]",
+            "display": true
+        },
+        {
+            "name": "[Seong-eun]",
+            "nameFull": "[Seong-eun], [Kim]",
+            "track": "[WD]",
+            "githubName": "[seongeunkimmy]",
+            "githubUrl": "[https://github.com/seongeunkimmy]",
+            "linkedinUrl": "[linkedin_url]",
+            "emailAdress": "[email_adress]",
+            "display": true
+        },
+        {
+            "name": "[Timea]",
+            "nameFull": "[Timea], [Varju]",
+            "track": "[WD]",
+            "githubName": "[Moomia]",
+            "githubUrl": "[https://github.com/Moomia]",
             "linkedinUrl": "[linkedin_url]",
             "emailAdress": "[email_adress]",
             "display": true
