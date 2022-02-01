@@ -1,13 +1,13 @@
 {
     "name": "st21-terraViz",
     "nameFull": "Terra Viz",
-    "videoUrl": "[project_video_url]",
-    "prototypeUrl": "[project_protype_url]",
+    "videoUrl": null,
+    "prototypeUrl": "https://dreamy-lewin-096330.netlify.app",
     "techlabsUrl": "https://techlabs.org/",
-    "location": "[Berlin]",
-    "semester": "[WiSe2021]",
-    "status": "[searching for funding]",
-    "tools": ["Notion", "Fondora", "Postman"],
+    "location": "Berlin",
+    "semester": "Winter 2021",
+    "status": "searching for funding",
+    "tools": "Notion", "Fondora", "Postman",
     "membersContacts": [
         {
             "name": "Bastian",
@@ -15,8 +15,8 @@
             "track": "DS",
             "githubName": "CodingBastian",
             "githubUrl": "https://github.com/CodingBastian",
-            "linkedinUrl": "https://linkedin",
-            "emailAdress": "Nickname1@provider.com",
+            "linkedinUrl": null,
+            "emailAdress": null,
             "display": true
         },
         {
@@ -25,8 +25,8 @@
             "track": "DS",
             "githubName": "floriandeters",
             "githubUrl": "https://github.com/floriandeters",
-            "linkedinUrl": "null",
-            "emailAdress": "null",
+            "linkedinUrl": null,
+            "emailAdress": null,
             "display": true
         },
         {
@@ -35,8 +35,8 @@
             "track": "DS",
             "githubName": "lukasjoho",
             "githubUrl": "https://github.com/lukasjoho",
-            "linkedinUrl": "null",
-            "emailAdress": "null",
+            "linkedinUrl": null,
+            "emailAdress": null,
             "display": true
         },
         {
@@ -45,8 +45,8 @@
             "track": "WD",
             "githubName": "seongeunkimmy",
             "githubUrl": "https://github.com/seongeunkimmy",
-            "linkedinUrl": "null",
-            "emailAdress": "null",
+            "linkedinUrl": null,
+            "emailAdress": null,
             "display": true
         },
         {
@@ -55,8 +55,8 @@
             "track": "WD",
             "githubName": "Moomia",
             "githubUrl": "https://github.com/Moomia",
-            "linkedinUrl": "null",
-            "emailAdress": "null",
+            "linkedinUrl": null,
+            "emailAdress": null,
             "display": true
         }
         ]
