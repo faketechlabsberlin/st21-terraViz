@@ -7,7 +7,7 @@
     "location": "Berlin",
     "semester": "Winter 2021",
     "status": "searching for funding",
-    "tools": "Notion", "Fondora", "Postman",
+    "tools": ["Notion", "Fondora", "Postman"],
     "membersContacts": [
         {
             "name": "Bastian",
